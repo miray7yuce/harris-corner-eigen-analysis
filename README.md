@@ -18,8 +18,3 @@ For each detected corner, the eigenvalues and eigenvectors of the structure tens
 ## Outputs
 - **corners.jpg** – detected Harris corner points  
 - **eigenvectors.jpg** – eigenvector visualization at each corner  
-
-## Requirements
-- Python 3.x  
-- OpenCV  
-- NumPy  
